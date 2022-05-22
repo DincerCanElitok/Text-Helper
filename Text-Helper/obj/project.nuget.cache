@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "vAlXSWH1VlbPt/RhUw99lhZ0G3Si8rb4PPIsISvmRW8eoa/gWJ6I2D61H8bsF0JdVfl2AE6qbVjuP6tK8b2/ZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Can\\Desktop\\text-helper\\text-helper\\Text-Helper\\Text-Helper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Can\\.nuget\\packages\\dotnetprojects.wpftoolkit.datavisualization\\6.1.94\\dotnetprojects.wpftoolkit.datavisualization.6.1.94.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\google.apis\\1.57.0\\google.apis.1.57.0.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\google.apis.auth\\1.57.0\\google.apis.auth.1.57.0.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\google.apis.core\\1.57.0\\google.apis.core.1.57.0.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\google.apis.searchconsole.v1\\1.57.0.2620\\google.apis.searchconsole.v1.1.57.0.2620.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\googleapi\\4.0.7\\googleapi.4.0.7.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\htmlagilitypack\\1.11.42\\htmlagilitypack.1.11.42.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\portable.bouncycastle\\1.8.10\\portable.bouncycastle.1.8.10.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'DotNetProjects.WpfToolkit.DataVisualization 6.1.94' paketi, proje hedef çerçevesi '.NETCoreApp,Version=v3.1' yerine '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' kullanılarak geri yüklendi. Bu paket projenizle tamamen uyumlu olmayabilir.",
+      "libraryId": "DotNetProjects.WpfToolkit.DataVisualization",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
